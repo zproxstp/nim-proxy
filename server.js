@@ -34,7 +34,8 @@ const MODEL_MAPPING = {
   'deepseek-v4-pro': 'deepseek-ai/deepseek-v4-pro',
   'deepseek-v4-flash': 'deepseek-ai/deepseek-v4-flash-0731',
   'minimax-m3': 'minimaxai/minimax-m3',
-  'deepseek-v4-pro-0813': 'deepseek-ai/deepseek-v4-pro-0813'
+  'deepseek-v4-pro-0813': 'deepseek-ai/deepseek-v4-pro-0813',
+  'deepseek-v4-flash-0731':'deepseek-ai/deepseek-v4-flash-0731'
 };
 
 // Root endpoint
