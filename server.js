@@ -35,7 +35,8 @@ const MODEL_MAPPING = {
   'deepseek-v4-flash': 'deepseek-ai/deepseek-v4-flash-0731',
   'minimax-m3': 'minimaxai/minimax-m3',
   'deepseek-v4-pro-0813': 'deepseek-ai/deepseek-v4-pro-0813',
-  'deepseek-v4-flash-0731':'deepseek-ai/deepseek-v4-flash-0731'
+  'deepseek-v4-flash-0731':'deepseek-ai/deepseek-v4-flash-0731',
+  'nemotron-ultra':'nvidia/nemotron-3-ultra-550b-a55b'
 };
 
 // Root endpoint
